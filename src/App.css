@@ -1,0 +1,390 @@
+body{
+  width: 90% auto;
+  margin: 0 auto;
+}
+.header {
+  background-color: black;
+  display: flex;
+  justify-content: space-around; 
+  align-items: center; 
+  overflow: hidden;
+
+
+
+}
+.jaan{
+  padding: 0px !important;
+
+}
+
+.flex-item {
+color: white;
+  font-size: 1.5rem;
+  padding: 1rem;
+
+  text-align: center;
+}
+
+.item-1 {
+  
+  
+}
+
+.item-2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+
+.item-3 {
+}
+.icon1{
+  margin-left: 20px;
+}
+.icon2{
+  margin-left: 20px;
+}
+.line{
+  
+  margin-right: 17px;
+  height: 20%;
+}
+.backimg{
+  background-image: url(img/close-up-delicious-chicken-meal.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  width: 100%;
+  margin-right: 80px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  
+ 
+ 
+ 
+}
+.sub{
+  background-color: black;
+color: aliceblue;
+border-radius: 10px;
+opacity: 0.7;
+height: 60vh;
+width: 15%;
+margin-right: 20px;
+margin-top: 50px;
+text-align: center;
+text-decoration: none;
+
+
+}
+.slider{
+  align-items: center;
+  filter: blur(7px);
+  height: 80vh;
+}
+.text{
+  margin-bottom: 100px;
+  text-decoration: none;
+
+}
+.div1{
+  background-color: blue;
+  height: 200px;
+  width: 500px;
+}
+.pic22{
+  background-image: url(img/unsplash_mAQZ3X_8_l0.png);
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+
+  
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.pic23{
+  background-image: url(img/unsplash_jpkfc5_d-DI@2x.png);
+  background-size: cover;
+
+  height: 200px;
+  
+}
+.pic24{
+  background-image: url(img/unsplash_mAQZ3X_8_l0.png);
+  background-size: cover;
+  background-position:center ;
+  height: 200px;
+  
+  margin-left: 5px;
+
+
+  
+  
+}
+.margin{
+  display: flex;
+  
+  gap: 20px;
+ height: 40vh;
+}
+.x1{
+  background-image: url(img/unsplash_-lHZUkiWM74.png);
+  background-size: cover;
+  background-position:center ;
+  border-radius: 10px;
+  text-align: center;
+}
+.buti{
+background-color: black;
+opacity: 0.5;
+height: 10vh;
+width: 200px;
+padding: auto;
+text-align: center;
+margin-top: 100px;
+border-radius: 10px;
+margin-left:5px ;
+}
+.x2{
+  background-image: url(img/unsplash_dphM2U1xq0U.png);
+  background-size: cover;
+  background-position:center ;
+  border-radius: 10px;
+  text-align: center;
+}
+.buti1{
+  background-color: black;
+  opacity: 0.5;
+  height: 10vh;
+  width: 200px;
+  padding: auto;
+  text-align: center;
+  margin-top: 100px;
+  border-radius: 10px;
+  margin-left:5px ;
+  }
+  .x3{
+    background-image: url(img/unsplash_MRHyv-hHxgk.png);
+    background-size: cover;
+    background-position:center ;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .buti2{
+    background-color: black;
+    opacity: 0.5;
+    height: 10vh;
+    width: 200px;
+    padding: auto;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 10px;
+    margin-left:5px ;
+    }
+    .x4{
+      background-image: url(img/unsplash_q54Oxq44MZs.png);
+      background-size: cover;
+      background-position:center ;
+      border-radius: 10px;
+      text-align: center;
+    }
+    .buti3{
+      background-color: black;
+      opacity: 0.5;
+      height: 10vh;
+      width: 200px;
+      padding: auto;
+      text-align: center;
+      margin-top: 100px;
+      border-radius: 10px;
+      margin-left:5px ;
+      }
+.nabeel{
+  
+        background-image: url(img/frame4.png);
+        background-size: cover;
+        height: 60vh;
+        
+      }
+      .text2{
+        text-align: center;
+        
+      }
+      .margin1{
+  
+        gap: 20px;
+       height: 60vh;
+      }
+      .xa1{
+        background-image: url(img/main.png);
+        background-size: cover;
+        background-position: center;
+        border-radius: 10px;
+        
+      }
+      .xa2{
+        background-image: url(img/main.png);
+        background-size: cover;
+        background-position:center ;
+        border-radius: 10px;
+        
+      }
+      .xa3{
+        background-image: url(img/main.png);
+        background-size: cover;
+        background-position:center ;
+        border-radius: 10px;
+        
+      }
+      .xa4{
+        background-image: url(img/main.png);
+        background-size: cover;
+        background-position:center ;
+        border-radius: 10px;
+        
+      }
+      
+      .divv p{
+        text-align: right;
+        font-family: "Times New Roman", Times, serif;
+        
+        font-size: 20px;
+       
+      }
+      .diva p{
+        text-align: center;
+        font-family: "Times New Roman", Times, serif;
+        font-size: 20px;
+      }
+      .diva >h1{
+        margin-left: 20px;
+      }
+      .ccc{
+        border-right:10px solid green ;
+      }
+.ro1{
+  background-color: #d3f5e9;
+  height: 60vh;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 100px;
+}
+input{
+  border: none;
+  padding: 1%;
+}
+
+.backimg2{
+  background-image: url(img/pexels-photo-67468.webp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 100%;
+  margin-right: 80px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  
+ 
+ 
+ 
+}
+.rrr h1,p{
+padding: 10px;
+}
+.sub2{
+  background-color: black;
+color: aliceblue;
+border-radius: 10px;
+opacity: 0.7;
+height: 80vh;
+width: 10%;
+margin-right: 20px;
+margin-top: 50px;
+text-align: center;
+
+
+}
+.footer1{
+  background-color: #374641;
+}
+.item-2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-large;
+}
+.backimg3{
+  background-image: url(img/close-up-delicious-chicken-meal1.png);
+  background-size: cover;
+  
+  height: 80vh;
+  width: 100%;
+  margin-right: 80px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  
+ 
+ 
+ 
+}
+
+.sub3{
+  background-color: black;
+color: aliceblue;
+border-radius: 10px;
+opacity: 0.7;
+height: 80vh;
+width: 10%;
+margin-right: 20px;
+margin-bottom: 20px;
+
+text-align: center;
+}
+.rr1{
+  margin-right: 600px;
+  margin-top: 60px;
+  font-size:xx-large;
+  color: white;
+}
+.rr2{
+  font-size: 200%;
+}
+
+@media  (max-width: 1175px) {
+  .header {
+      background-color: rgb(8, 252, 0);
+      display: flex;
+      justify-content: space-around; 
+      align-items: center; 
+    
+   
+  }
+  
+ 
+}
+  
+@media only screen and (max-width: 1004px){
+  .backimg{
+    width: 100%;
+    font-size: small;
+    padding: auto;
+  }
+.text h4 h1 p {
+  font-size: 3px;
+}
+}
+@media only screen and (max-width: 680px){
+  .backimg{
+    width: 700px;
+    font-size: small;
+  }
+}
